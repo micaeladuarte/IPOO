@@ -27,9 +27,7 @@ agregarGente($viajeObj);
 
 
 
-    /*opcion x: agregar 1 chabon
-    usa funcion cargarPasajeros que a su vez usa datosDeUnPasajero*/
-
+   
 //}
 
 function agregarGente ($viajeObj) {
