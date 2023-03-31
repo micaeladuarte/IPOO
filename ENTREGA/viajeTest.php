@@ -1,11 +1,6 @@
 <?php
 require_once ("viaje.php");
 
-/*$pasajeroa= [
-    "nombre"=> "",
-    "apellido"=> "",
-    "nroDoc"=>"",
-];*/
 
 
 echo"Esta es la empresa de transporte 'Viaje Feliz' \n";
